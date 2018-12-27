@@ -1,0 +1,2 @@
+demo-mybatis-generator
+mysql自动生成实体类和dao层
